@@ -1,9 +1,13 @@
-title : Blogging for the Byrds!
+markdown:		redcarpet
+highlighter:	true
 
-author_name : Bryan Byrd
+permalink:		pretty
 
-author_email : bryanjebyrd@gmail.com
+title: 			Blogging for the Byrds!
+tagline:		Documents to help this Byrd remember how to fly!
 
-author_github : BBird40
-
-author_twitter: bryanjebyrd
+author:
+   name:		Bryan Byrd
+   email:		bryanjebyrd@gmail.com
+   github:		BBird40
+   twitter: 	bryanjebyrd
