@@ -7,7 +7,7 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
@@ -17,4 +17,8 @@
   <link rel="stylesheet" href="{{ site.baseurl }}css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}css/lanyon.css">
+  
+  <!-- Icon -->
+  <link rel="red-cardinal-icon" sizes="144x144" href="{{ site.baseurl }}img/red-cardinal-icon.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}img/favicon.ico">
 </head>
