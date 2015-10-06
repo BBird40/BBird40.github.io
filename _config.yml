@@ -1,5 +1,5 @@
 markdown:		redcarpet
-highlighter:	true
+highlighter:	pygments
 
 # setup
 paginate:		1
