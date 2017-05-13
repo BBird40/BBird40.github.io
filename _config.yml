@@ -1,5 +1,6 @@
-markdown:		redcarpet
+markdown:		kramdown
 highlighter:	pygments
+gems:   [jekyll-paginate]
 
 # setup
 paginate:		1
